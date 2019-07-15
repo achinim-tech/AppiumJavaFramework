@@ -1,0 +1,72 @@
+[INFO ] 2019-07-15 03:20:50.362 [main] TestBase - Appium server started
+[INFO ] 2019-07-15 03:21:03.010 [main] TestBase - Google Search is successful
+[INFO ] 2019-07-15 03:21:10.250 [main] TestBase - Google image Search is successful
+[INFO ] 2019-07-15 03:21:10.707 [main] TestBase - Appium server stopped
+[INFO ] 2019-07-15 12:46:09.804 [main] TestBase - Appium server started
+[INFO ] 2019-07-15 12:47:25.074 [main] TestBase - Appium server stopped
+[INFO ] 2019-07-15 12:52:54.620 [main] TestBase - Appium server started
+[INFO ] 2019-07-15 12:54:08.468 [main] TestBase - Appium server stopped
+[INFO ] 2019-07-15 12:55:59.829 [main] TestBase - Appium server started
+[INFO ] 2019-07-15 12:57:07.089 [main] TestBase - Google image Search is successful
+[INFO ] 2019-07-15 12:57:26.939 [main] TestBase - Appium server stopped
+[INFO ] 2019-07-15 13:00:19.656 [main] TestBase - Appium server started
+[INFO ] 2019-07-15 13:00:34.076 [main] TestBase - Google Search is successful
+[INFO ] 2019-07-15 13:00:44.058 [main] TestBase - Google image Search is successful
+[INFO ] 2019-07-15 13:01:02.353 [main] TestBase - Appium server stopped
+[INFO ] 2019-07-15 13:06:35.593 [main] TestBase - Appium server started
+[INFO ] 2019-07-15 13:06:49.606 [main] TestBase - appium.io
+[INFO ] 2019-07-15 13:06:49.610 [main] TestBase - Google Search is successful
+[INFO ] 2019-07-15 13:06:50.153 [main] TestBase - Appium server stopped
+[INFO ] 2019-07-15 13:09:03.064 [main] TestBase - Appium server started
+[INFO ] 2019-07-15 13:09:20.847 [main] TestBase - Appium server stopped
+[INFO ] 2019-07-15 13:12:47.046 [main] TestBase - Appium server started
+[INFO ] 2019-07-15 13:12:47.046 [main] TestBase - Appium server started
+[INFO ] 2019-07-15 13:13:03.423 [main] TestBase - appium.io
+[INFO ] 2019-07-15 13:13:03.440 [main] TestBase - appium.io
+[INFO ] 2019-07-15 13:13:03.487 [main] TestBase - Google Search is successful
+[INFO ] 2019-07-15 13:13:03.487 [main] TestBase - Google Search is successful
+[INFO ] 2019-07-15 13:13:26.403 [main] TestBase - Appium server stopped
+[INFO ] 2019-07-15 13:13:26.456 [main] TestBase - Appium server stopped
+[INFO ] 2019-07-15 13:16:22.726 [main] TestBase - Appium server started
+[INFO ] 2019-07-15 13:16:43.512 [main] TestBase - Appium server stopped
+[INFO ] 2019-07-15 13:19:31.234 [main] TestBase - Appium server started
+[INFO ] 2019-07-15 13:19:51.431 [main] TestBase - Appium server stopped
+[INFO ] 2019-07-15 13:23:50.717 [main] TestBase - Appium server started
+[INFO ] 2019-07-15 13:24:12.259 [main] TestBase - Appium
+[INFO ] 2019-07-15 13:24:12.263 [main] TestBase - Google Search result navigation is successful
+[INFO ] 2019-07-15 13:24:12.703 [main] TestBase - Appium server stopped
+[INFO ] 2019-07-15 13:28:26.882 [main] TestBase - Appium server started
+[INFO ] 2019-07-15 13:29:46.092 [main] TestBase - Appium
+[INFO ] 2019-07-15 13:29:46.096 [main] TestBase - Google Search result navigation is successful
+[INFO ] 2019-07-15 13:29:46.790 [main] TestBase - Appium server stopped
+[INFO ] 2019-07-15 13:32:38.676 [main] TestBase - Appium server started
+[INFO ] 2019-07-15 13:33:57.317 [main] TestBase - Appium
+[INFO ] 2019-07-15 13:33:57.321 [main] TestBase - Google Search result navigation is successful
+[INFO ] 2019-07-15 13:33:58.204 [main] TestBase - Appium server stopped
+[INFO ] 2019-07-15 13:34:57.697 [main] TestBase - Appium server started
+[INFO ] 2019-07-15 13:36:17.643 [main] TestBase - Appium
+[INFO ] 2019-07-15 13:36:17.648 [main] TestBase - Google Search result navigation is successful
+[INFO ] 2019-07-15 13:36:18.319 [main] TestBase - Appium server stopped
+[INFO ] 2019-07-15 13:37:21.055 [main] TestBase - Appium server started
+[INFO ] 2019-07-15 13:37:33.008 [main] TestBase - appium.io
+[INFO ] 2019-07-15 13:37:33.012 [main] TestBase - Google Search is successful
+[INFO ] 2019-07-15 13:37:39.930 [main] TestBase - Google image Search is successful
+[INFO ] 2019-07-15 13:38:05.815 [main] TestBase - Appium
+[INFO ] 2019-07-15 13:38:05.816 [main] TestBase - Google Search result navigation is successful
+[INFO ] 2019-07-15 13:38:06.409 [main] TestBase - Appium server stopped
+[INFO ] 2019-07-15 13:46:53.638 [main] TestBase - Appium server started
+[INFO ] 2019-07-15 13:47:07.775 [main] TestBase - Google Search is successful
+[INFO ] 2019-07-15 13:47:14.767 [main] TestBase - Google image Search is successful
+[INFO ] 2019-07-15 13:48:06.018 [main] TestBase - Appium server stopped
+[INFO ] 2019-07-15 14:00:59.835 [main] TestBase - Appium server started
+[INFO ] 2019-07-15 14:01:13.045 [main] TestBase - Google Search is successful
+[INFO ] 2019-07-15 14:01:19.950 [main] TestBase - Google image Search is successful
+[INFO ] 2019-07-15 14:01:39.822 [main] TestBase - Appium
+[INFO ] 2019-07-15 14:01:39.822 [main] TestBase - Navigation to result web Page is successful
+[INFO ] 2019-07-15 14:01:40.550 [main] TestBase - Appium server stopped
+[INFO ] 2019-07-15 14:09:24.653 [main] TestBase - Appium server started
+[INFO ] 2019-07-15 14:09:40.111 [main] TestBase - Google Search is successful
+[INFO ] 2019-07-15 14:09:47.404 [main] TestBase - Google image Search is successful
+[INFO ] 2019-07-15 14:10:04.659 [main] TestBase - Appium
+[INFO ] 2019-07-15 14:10:04.660 [main] TestBase - Navigation to result web Page is successful
+[INFO ] 2019-07-15 14:10:05.149 [main] TestBase - Appium server stopped
